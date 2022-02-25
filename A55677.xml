@@ -1,0 +1,152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Parable of the dove being a review of the late controversie between the blackbirds and the magpies, tending to an amicable accommodation of all the differences which at present disturb the feather'd nations.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55677</idno>
+            <idno type="STC">Wing P322</idno>
+            <idno type="STC">ESTC R7351</idno>
+            <idno type="EEBO-CITATION">12417455</idno>
+            <idno type="OCLC">ocm 12417455</idno>
+            <idno type="VID">61725</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55677)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 61725)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 285:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Parable of the dove being a review of the late controversie between the blackbirds and the magpies, tending to an amicable accommodation of all the differences which at present disturb the feather'd nations.</title>
+               </titleStmt>
+               <extent>[1], 4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Wallup,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire on dissenters and the Church of England.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Yale University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Anecdotes</term>
+               <term>Dissenters, Religious --  Anecdotes</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="parable">
+            <pb facs="tcp:61725:1"/>
+            <pb n="1" facs="tcp:61725:1" rendition="simple:additions"/>
+            <head>THE PARABLE OF THE DOVE: BEING A Review of the late Controverſie between the <hi>BLACK-BIRDS,</hi> and the <hi>MAGPIES;</hi> tending to an Ami<g ref="char:EOLhyphen"/>cable Accommodation of all the Differences which at preſent diſturb the Feather'd Nations.</head>
+            <p>I Won't rail at Parables, becauſe I'm writing one my ſelf; and how ſilly ſoever 'tis like to be, it can't be worſe than other things which have extremely pleas'd ſome ſorts of People. This I'm ſure of, that with Fables, or without 'em, when the World is weary of quarrelling, 'twill be quiet in its own defence. Whether this be the lucky time, or no, I can't tell, but am reſolv'd rather to venture a Broken Head o' both Sides, to make my Country-men Friends, than either bett on either Side for the ſake of a little naſty Profit, or ſtand ſtill, and laugh at both, while they knock out one ano<g ref="char:EOLhyphen"/>ther's Brains, and ſave their Enemies the labour.</p>
+            <p>'Tis no News to thoſe who have conſulted the new <hi>Virtuoſo</hi>-Maps, that there lie ſeveral little Worlds, or, if you pleaſe, Airy Iſlands, between this World, and that in the Moon, where the Birds, you muſt know, us'd to call in and bait, when tired with their Flight thither at the end of our Winter.</p>
+            <p>'Twas in one of theſe little Worlds, fix'd in a very temperate Region, ſome where or other between the two Tropicks, that the <hi>Eagles</hi> kept their Royal Court, in an old white Rock, by the ſide of a curious River, where their Races had been ſetled, and ruled the reſt of the Birds for ſeveral Ages, who never dar'd miſs calling in there, and doing 'em Homage, in their paſ<g ref="char:EOLhyphen"/>ſage to or from the Airy Regions.</p>
+            <p>Once upon a time then (to obſerve the vene<g ref="char:EOLhyphen"/>rable form of our Great Grandmothers) it ſo fell out, that the then regnant <hi>Eagle,</hi> thinking it be<g ref="char:EOLhyphen"/>low him to match with any of his Subjects, ſent
+<pb n="2" facs="tcp:61725:2"/>to the <hi>Vulture</hi>'s Court for a Mate; which Op<g ref="char:EOLhyphen"/>portunity the Family of the <hi>Vultures</hi> moſt readi<g ref="char:EOLhyphen"/>ly embrac'd, hoping thereby in time to get a Claw in the <hi>Eagle</hi>'s Dominions, or at leaſt pre<g ref="char:EOLhyphen"/>ſerve his own, which he had formerly uſurp'd from the Predeceſſors of the <hi>Eagle;</hi> and ac<g ref="char:EOLhyphen"/>cordingly ſent one of the ſubt'leſt of all his Fa<g ref="char:EOLhyphen"/>mily, who, in time, wrought ſo much on the Affections of her Royal Mate, that nothing was tranſacted in the Council of the Birds, without her Privity and Direction Vaſt Flocks of <hi>Vultures</hi> flew daily over, who, being encourag'd by ſo great a Patroneſs, ſeduced not a few of the Sub<g ref="char:EOLhyphen"/>jects of the <hi>Eagle;</hi> and arriv'd to ſuch Inſolence in a neighbouring World, under his Dominion, which, from the multitude of <hi>Hawks</hi> there, was firſt call'd <hi>Jernia,</hi> and ſince <hi>Hibernia,</hi> that, at a Signal given, they maſſacr'd all the Birds who were loyal to the <hi>Eagle,</hi> making no difference between <hi>blackbirds</hi> and <hi>Magpyes,</hi> but wrung off their Necks, and tore 'em to pieces, firing their Neſts, and breaking all their Eggs, in the moſt barbarous manner that ever was heard of, pre<g ref="char:EOLhyphen"/>tending the <hi>Eagle</hi>'s Authority for their ſo doing. And this indeed, whatever elſe may be alledg'd, was the main Cauſe of thoſe dreadful Wars, which not long after aroſe in this little World, to the deſtruction of many thouſands of its fea<g ref="char:EOLhyphen"/>ther'd Inhabitants; the <hi>Magpyes</hi> and <hi>Blackbirds,</hi> with all the reſt, ſiding with that Party which their Inclinations or Intereſt led 'em moſt to fa<g ref="char:EOLhyphen"/>vour, while the Gaulleſs <hi>Dove,</hi> who truly lov'd his Country, and was Friend to all Sides, ſate alone in his Louver, and deplot'd the common Calamity. Nor did the dreadful Confuſion theſe Diſſentions produc'd, end in any thing leſs than the Deſtruction of the <hi>Eagle,</hi> baniſhing all his Progeny, and ſetting up a Commonwealth of the Birds, inſtead of the ancient Monarchy by which they had been ſo long govern'd, and which ſeem'd much more agreeable to the Ge<g ref="char:EOLhyphen"/>nius of the Airy Inhabitants, who generally be<g ref="char:EOLhyphen"/>liev'd that <hi>Jupiter</hi> himſelf had ſet the <hi>Eagles</hi> over 'em, tho, at the bottom, they had been only choſen Kings by general Conſent, and for the Good of the Whole. But the Birds had not been long in this Condition, before a cunning old <hi>Stork,</hi> who had been formerly a General of the <hi>Blackbirds,</hi> againſt the <hi>Magpyes</hi> and the <hi>Ea<g ref="char:EOLhyphen"/>gle,</hi> being grown too ſtrong, as well as too cun<g ref="char:EOLhyphen"/>ning for the reſt of the ſilly Birds, and having none to oppoſe him, uſurp'd the Throne of the murther'd <hi>Eagle,</hi> enjoying all the Power which he had before, without the invidious Name; and with his dreadful Bill, and ſharp Claws, frighting the Parliament of the Birds from their moſt ſteady Reſolves, and tearing all their Char<g ref="char:EOLhyphen"/>ters to pieces, huffing all the Worlds about him, as well as his own, and making the very <hi>Vultures</hi> tremble. For, to give the Devil his due, 'twas a Bird both of Policy and Valour; and had the <hi>Eagles</hi> themſelves, after their Reſtoration, in ſome things, follow'd his Steps, their Govern<g ref="char:EOLhyphen"/>ment had been, in all probability, much more firm and happy. Yet, after all, 'twas diſco<g ref="char:EOLhyphen"/>ver'd by the reſt of the Birds, that the <hi>Stork</hi>'s pretences of Love to his Country were confuted, by his palpable Endeavours to raiſe himſelf and his Family, upon their Ruins; ſetting up a more abſolute Tyranny than ever was practis'd by the Race of the <hi>Eagles.</hi> On this the Birds began to conſult againſt him; his Government every Day grew weak and tottering, which, together with the ſuddain Death of one of his young ones, ſo ſtruck to his Heart, (for the Stork is a very af<g ref="char:EOLhyphen"/>fectionate Bird,) that, in the highth of all his Glory, he on the ſuddain dropp'd off his Perch, and died; the <hi>Blackbirds</hi> generally affirming he was poiſon'd, and the <hi>Magpyes</hi> telling the World the Devil fetch'd him away in a Whirl-wind; whereas in truth, he e'en fairly dy'd for want of Breath, as well as all other Birds. After his De<g ref="char:EOLhyphen"/>parture, the Birds ſoon fell into a terrible Con<g ref="char:EOLhyphen"/>fuſion, which oblig'd 'em at laſt to re-call the baniſh'd <hi>Eagles,</hi> and re-inſtate him in the Throne of his Anceſtors.</p>
+            <p>But not to meddle with Affairs during his Reign, any more than he himſelf did, who was indeed more earneſtly employed to find out the fineſt Birds in his Territory, <hi>Peacocks, Pheaſants, Birds of Paradice, &amp;c.</hi> than either the <hi>Magpies</hi> or <hi>Blackbirds,</hi> at his ſudden and <hi>expected</hi> Death, the unnatural <hi>Oſtrich,</hi> contrary to the ſenſe of two or three Parliaments of Birds, aſcended the Throne: But long he had not enjoyed the So<g ref="char:EOLhyphen"/>vereignty, before he publickly ſided with the <hi>Vultures,</hi> and brought in whole Flights of them, the <hi>Kites,</hi> the <hi>Owls,</hi> and other ravenous Birds, to the utter deſtruction both of <hi>Magpies</hi> and <hi>Blackbirds,</hi> tho to the latter of theſe he preten<g ref="char:EOLhyphen"/>ded the greateſt kindneſs; while the good-natur'd <hi>Dove</hi> was concern'd for the main, and feared the common Ruin.</p>
+            <p>And here it may be worth the while to en<g ref="char:EOLhyphen"/>quire into the occaſion of the difference between the <hi>Magpies</hi> and the <hi>Blackbirds</hi>—and 'was a wiſe one if you knew all—no better nor worſe than on account of their Colours; the <hi>Blackbirds</hi>
+               <pb n="3" facs="tcp:61725:2"/>thought the <hi>Magpies</hi> too fine and gaudy, and would for that reaſon have pulled out all their white Feathers, as marks of the Beaſt, rather than the true Livery of the Birds: 'The <hi>Magpies</hi> on 'tother ſide urg'd truly enough, that many other of the Feather'd Nation wore the ſame Colour; that 'twas ancient and innocent; and thus far perhaps they were in the right; but not ſtaying here, they puſh'd the buſineſs further to be even with the <hi>Blackbirds,</hi> chattering moſt unmercifully againſt their Black Coats and ſhort Tails, as unde<g ref="char:EOLhyphen"/>cent and unmannerly; whereas the poor Crea<g ref="char:EOLhyphen"/>tures could not change their Colour, nor ſpread their Tails any further or larger than Nature had made 'em, tho 'thad been to ſave their Necks, while the Doves could hardly keep the Peace be<g ref="char:EOLhyphen"/>tween 'em. And this had by the Artifice of the <hi>Vulture,</hi> as well as their own Folly, raiſed many a Fewd between 'em, tho otherwiſe in their own Natures both of 'em very peaceable Birds.</p>
+            <p>We won't relate what either Party did in their Turns to bertay their Liberties to the <hi>Oſtrich,</hi> our of Folly, Intereſt or Revenge; ſuffie it, that all of 'em ſoon found out the Cheat; and finding the Deſign of the <hi>Oſtrich</hi> was only to make em a Prey to the <hi>Rooks, Owls, Hawks, Vultures,</hi> and the other unlucky Birds which compoſed his Court, where none beſides now appeared; they ſent o<g ref="char:EOLhyphen"/>ver their unanimous Petition to a Foreign <hi>Eagle</hi> who had long rooſted in a neighbouring World, to come and aſſiſt 'em in their extremity. This <hi>Eagle</hi> was of the true Royal Caſt; and tho his Father dy'd before he was born, and could not himſelf try his Legitimacy, as the uſe of that Bird is, by flying up with him againſt the Sun, yet of his own accord he enured himſelf to that exer<g ref="char:EOLhyphen"/>ciſe, and took a ſtrange pleaſure in it. Beſides, tho he were yet young, and his Pounces hardly grown, he had more than once met the <hi>Vulture,</hi> whoſe Territories lay in the ſame Continent with his own, and held him ſo ſtiffly to the Combat in de<g ref="char:EOLhyphen"/>fence of the <hi>Sea-Pies,</hi> among whom he lived, that he had very ſeldom any reaſon to boaſt of his Conqueſts over him. But he was born for other Worlds as well as his own, and after the repeated Addreſſes of the <hi>Oſtrich</hi>'s Subjects, came over to relieve 'em, which he did with ſuch Succeſs, that as you have bin told in the former Parables, away ſcamper'd all the <hi>Rooks, Hawks, Owls</hi> and <hi>Vultures,</hi> which made up his Court, and prey'd upon the ai<g ref="char:EOLhyphen"/>ry Nations; and being gone without ſo much as ſtriking a ſtroke, the Nation of the Birds being in a perfect Anarchy, and all things in Confuſion, the Birds being now again reduced to their ſtate Nature, choſe the young <hi>Eagle</hi> their Deliverer for their Sovereign, who with his Royal Mate was advanced to the Throne, with the repeated Carols and Acclamations of that and all the Neighbouring Worlds.</p>
+            <p>Nor had the <hi>Vultures,</hi> to whom the <hi>Oſtrich</hi> had fled for Succor, any other way now leſt to deſtroy the happy Eſtate of the Birds, and pre<g ref="char:EOLhyphen"/>ſerve their own ill gotten Conqueſts, but by re<g ref="char:EOLhyphen"/>viving the old Quarrel between the <hi>Blackbirds</hi> and the <hi>Magpies,</hi> to obſtruct the Deſigns of the <hi>Eagle,</hi> and betray 'em all to the common Ene<g ref="char:EOLhyphen"/>my. To this end he not only employed Emiſſa<g ref="char:EOLhyphen"/>ries in the <hi>Eagle</hi>'s Country, who conſpired to dethrone him, and bring in the <hi>Vultures,</hi> on pre<g ref="char:EOLhyphen"/>tence of the <hi>Oſtrich</hi>'s Title; but by all means poſſible endeavoured the exaſperating the two powerful Parties of the <hi>Magpies</hi> and <hi>Blackbirds</hi> one againſt another, in which he made a greater Progreſs than could have been imagined. The <hi>Blackbirds</hi> complained of the ſharpneſs of the <hi>Magpies</hi> Claws, and that they kept the Steeples to themſelves, refuſing to ad<g ref="char:EOLhyphen"/>mit them thither for ſhelter. The <hi>Magpies</hi> an<g ref="char:EOLhyphen"/>ſwered, that 'twas their own Fault, and that they rather choſe Hedges and Field Conventicles, having a mortal Enmity to all the Steeple-Houſes in the World, adding beſides, and ne<g ref="char:EOLhyphen"/>ver ceaſing to whiſper it in the <hi>Eagle</hi>'s Ear, that the <hi>Blackbirds</hi> were with all their Hearts for a Commonwealth of Birds, and would never be at reſt till Monarchy was agen turned out of Doors, or at leaſt reduced to what they pleaſe.</p>
+            <p>Things being in this miſerable condition, and all the Birds more ready to engage their Friends, than oppoſe the common Enemy: The <hi>Dove</hi> who was all along for Unity and Moderation, fain would have ſalv'd all the Accuſations writ by the different Parties, one againſt another; as a great Emperor once did in the other World, burnt 'em all before their faces. But ſince that was impracticable, he petition'd the <hi>Eagle</hi> for a general Meeting or Convocation of the <hi>Magpies,</hi> in order to accommodate Diffe<g ref="char:EOLhyphen"/>rences between them and the <hi>Blackbirds</hi> their old Enemies. This he obtain'd, but to little or no purpoſe; for tho the <hi>Magpies</hi> had formerly promiſed, when in the Clutches of the <hi>Oſtrich</hi> and panting for Life, if the <hi>Blackbirds</hi> wou'd ſtand by 'em, to come to any Terms with 'em, they could reaſonably deſire, when once de<g ref="char:EOLhyphen"/>livered from the common Calamity, they now forgot they had ſaid one word of the Matter; and o'tother ſide, tho' the <hi>Blackbird</hi> then ſeem'd
+<pb n="4" facs="tcp:61725:3"/>very well diſpoſed to Peace and Unity (as all ſorts of Creatures are Friends, when united by mutual Danger) 'twas now abſolutely gon out of their minds, that they ever deſired any ſuch thing. And both ſides, inſtead of agreeing in Charity and common Offices of Love, fell a<g ref="char:EOLhyphen"/>new on each other with Beaks and Claws as furiouſly as ever; Scandals and Lies flying a<g ref="char:EOLhyphen"/>bout of all ſides; the <hi>Blackbirds</hi> accuſed all the <hi>Magpies,</hi> for being Friends to the <hi>Oſtrich</hi>'s Go<g ref="char:EOLhyphen"/>vernment (becauſe ſome of them were really ſo) and the <hi>Magpyes</hi> accuſing them, for being for no Government at all, becauſe, perhaps ſome of them were of that Humor. In the mean time, none can expreſs, what Ravage is daily made between the different Factions; how ma<g ref="char:EOLhyphen"/>ny Eyes ſtruck out, and Feathers pull'd, and Down flying all round the Airy Regions. The <hi>Dove</hi> ſtill perſiſts in his fruitleſs Endeavours to reconcile 'em, tells 'em in vain the danger of an approaching Enemy, who would take 'em at a great, diſadvantage thus unprepared; aſ<g ref="char:EOLhyphen"/>ſures 'em, they are on both ſides extreamly miſtaken, and that many are true Friends to the State of the Birds and the Intereſt of the Eagle, whom either Party abuſed as inclined to the <hi>Storks</hi> or <hi>Oſtrich;</hi> and tells 'em the truth of the Buſineſs is, That Profit is at the Root of all, and that the feathered People will never be at quiet, till little particular narrow Intereſts ſubmit to the common good; while all the Requital ſhe meets wth, is never to expect Preferment; whoever is uppermoſt, to be joſtled about between the two contending Parties, to whom ſhe may coo her Heart out, before ſhe bring 'em an Inch nearer one a<g ref="char:EOLhyphen"/>nother, than they were almoſt an hundred years ago, and to be called a Trimmer or Bat for all her Labour. In the mean time while ſhe bears her Misfortunes as equally as ſhe can, and impatiently expects the return of the Ryoal Eagle, whoſe Affairs have lately call'd him into the World of the <hi>Scapies,</hi> and who, if Heaven proſper his juſt Cauſe againſt the <hi>Vulture,</hi> will, ſhe doubts not, when he has more Time and Leaſure, teach both Parties better Manners.</p>
+            <q>
+               <l>
+                  <hi>Caeleſtial Peace!</hi> Where ſhall we meet with thee?</l>
+               <l>Thou art all Smiles, all Heav'n, all Harmony.</l>
+               <l>Deſcend, bright <hi>Goddeſs</hi> from thy radiant Shrine</l>
+               <l>All beateous like thy ſelf, and all Divine!</l>
+               <l>One hand an <hi>Olive-Branch,</hi> the Mark of Love,</l>
+               <l>And in the other bear thy <hi>Darling-Dove.</hi>
+               </l>
+               <l>Charm down each Feud, and teach the World to <hi>live;</hi>
+               </l>
+               <l>Firſt, teach it to <hi>forget,</hi> and then <hi>forgive.</hi>
+               </l>
+               <l>Till the laſt <hi>Golden Age</hi> receive new Birth,</l>
+               <l>And Men at laſt enjoy an Heav'n on Earth.</l>
+            </q>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for R. Wallup. 1691.</p>
+            <pb facs="tcp:61725:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
